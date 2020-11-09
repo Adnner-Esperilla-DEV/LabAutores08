@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practicando</string>
+    <string name="item_thumbnail">Libro</string>
+    <string name="item_title">Titulo</string>
+    <string name="item_publisher">Publicar</string>
+    <string name="item_authors">Autores</string>
+</resources>
